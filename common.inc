@@ -18,4 +18,7 @@
 \addtolength{\hoffset}{-0.3in}
 \addtolength{\textwidth}{1.5in}
 
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0pt}
+
 \newenvironment{mysong}[2]{\section*{#1 {\footnotesize (v.~#2)}}}{}
