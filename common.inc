@@ -5,6 +5,14 @@
 \usepackage{fixltx2e}  % \textsubscript
 
 \usepackage[chordbk]{songbook}
+
+\renewcommand{\SBBaseLang}         {suomi}
+\renewcommand{\SBBridgeTag}        {Br:}
+\renewcommand{\SBChorusTag}        {Kert:}
+\renewcommand{\SBContinueTag}      {jatkuu\ldots}
+\renewcommand{\SBEndTag}           {Out:}
+\renewcommand{\SBIntroTag}         {In:}
+
 \addtolength{\topmargin}{-0.6in}
 \addtolength{\textheight}{1.0in}
 \addtolength{\hoffset}{-0.3in}
