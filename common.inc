@@ -9,3 +9,5 @@
 \addtolength{\textheight}{1.0in}
 \addtolength{\hoffset}{-0.3in}
 \addtolength{\textwidth}{1.5in}
+
+\newenvironment{mysong}[2]{\section*{#1 {\footnotesize (v.~#2)}}}{}
