@@ -13,10 +13,10 @@
 \renewcommand{\SBEndTag}           {Out:}
 \renewcommand{\SBIntroTag}         {In:}
 
-\addtolength{\topmargin}{-0.6in}
-\addtolength{\textheight}{1.0in}
-\addtolength{\hoffset}{-0.3in}
-\addtolength{\textwidth}{1.5in}
+\addtolength{\topmargin}{-0.4in}
+\addtolength{\textheight}{0.6in}
+\addtolength{\hoffset}{-0.1in}
+\addtolength{\textwidth}{1.2in}
 
 \setlength{\parskip}{\medskipamount}
 \setlength{\parindent}{0pt}
