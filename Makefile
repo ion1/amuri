@@ -4,6 +4,7 @@ sources := \
 	ikava_hirvea.tex \
 	junat_ovat_taasen_myohassa.tex \
 	kaamoslaulu.tex \
+	kompassit.tex \
 	laskuvarjo.tex \
 	maailman_murha.tex \
 	onkiniemen_mormoonitytot.tex \
