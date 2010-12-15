@@ -1,4 +1,5 @@
 sources := \
+	aika_meni_jo.tex \
 	hoyhen.tex \
 	hyvasti_perhonen.tex \
 	ikava_hirvea.tex \
