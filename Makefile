@@ -6,6 +6,7 @@ sources := \
 	laskuvarjo.tex \
 	maailman_murha.tex \
 	onkiniemen_mormoonitytot.tex \
+	pahoinvointia_rakentamassa.tex \
 	perhonen.tex \
 	ruusupuu.tex \
 	valveunia.tex
