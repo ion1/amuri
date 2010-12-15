@@ -1,0 +1,10 @@
+*.aux
+*.count
+*.eps
+*.fdb_latexmk
+*.log
+*.ly
+*.ly.head
+*.ly.in
+*.pdf
+*.texi
