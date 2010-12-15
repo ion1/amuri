@@ -2,7 +2,7 @@ sources := \
 	hoyhen.tex \
 	hyvasti_perhonen.tex \
 	ikava_hirvea.tex \
-	junat.tex \
+	junat_ovat_taasen_myohassa.tex \
 	kaamoslaulu.tex \
 	laskuvarjo.tex \
 	maailman_murha.tex \
