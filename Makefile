@@ -8,6 +8,7 @@ sources := \
 	kaamoslaulu.tex \
 	kompassit.tex \
 	laskuvarjo.tex \
+	lime.tex \
 	maailman_murha.tex \
 	onkiniemen_mormoonitytot.tex \
 	pahoinvointia_rakentamassa.tex \

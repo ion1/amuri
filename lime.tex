@@ -1,0 +1,75 @@
+\documentclass[11pt,a4paper]{article}
+\input{common.inc}
+\input{lilypond.inc}
+
+\begin{document}
+\thispagestyle{empty}
+\begin{mysong}{Amuri – Lime}{0}
+
+\SBIntro{\Chr{F#m}{}}
+
+\begin{SBVerse}
+  \Ch{F#m}{Uskalsin} vihdoin \Ch{E}{pyytää} sua meille teelle.
+
+  \Ch{D}{Yritin} virittää kanavan \Ch{E}{rakkauden} mietteelle.
+
+  \Ch{F#m}{Sä vain} hymyilit ja \Ch{E}{vilkuilit} kulmien alta.
+
+  \Ch{D}{Jos} suoraan sanotaan, se tuntui \Ch{E}{kamalalta.}
+
+  \Ch{F#m}{Uskalsin} vihdoinkin \Ch{E}{pitää} sua kädestä kii.
+
+  \Ch{D}{Sä} vain puhuit, miten \Ch{E}{pidät} hänestä niin.
+\end{SBVerse}
+
+\begin{SBChorus}
+  \Ch{A}{Pitäskö} vaan antaa \Ch{C#m}{olla,} \Ch{A}{luovuttaa} ihan
+  sovin\Ch{C#m}{nolla?}
+
+  \Ch{A}{Eihän} tässä oo mitään \Ch{C#m}{järkeä,} jos joku \Ch{D}{toinen} on
+  \Ch{E}{sulle} noin \Ch{F#m}{tärkeä} --
+  
+  jos joku \Ch{D}{toinen} on \Ch{E}{sulle} noin \Ch{F#m}{tärkeä.}
+\end{SBChorus}
+
+\begin{SBVerse}
+  \Ch{F#m}{On} rakkaus joskus \Ch{E}{väkivaltaista}
+
+  \Ch{D}{tai} vallan väkinäistä, \Ch{E}{niin} kuin tämä.
+
+  \Ch{F#m}{Sanoisitpa} pahasti \Ch{E}{tai} sanoisitpa mitä vaan,
+
+  \Ch{D}{on} kaikkein pahinta, \Ch{E}{kun} ollaan hiljaa.
+
+  \Ch{F#m}{Mun} sydän verta vuotaa \Ch{E}{ja} itkee.
+
+  \Ch{D}{Sä} kysyt, onks' tää limee \Ch{E}{tää} tee.
+\end{SBVerse}
+
+\begin{SBChorus}
+  \Ch{A}{Pitäskö} vaan antaa \Ch{C#m}{olla,} \Ch{A}{luovuttaa} ihan
+  sovin\Ch{C#m}{nolla?}
+
+  \Ch{A}{Eihän} tässä oo mitään \Ch{C#m}{järkeä,} jos joku \Ch{D}{toinen} on
+  \Ch{E}{sulle} noin \Ch{F#m}{tärkeä} --
+  
+  jos joku \Ch{D}{toinen} on \Ch{E}{sulle} noin \Ch{F#m}{tärkeä} --
+\end{SBChorus}
+
+\SBEnd{jos joku \Ch{D}{toinen} on \Ch{E}{sulle} noin \Ch{F#m}{tärkeä.}}
+
+{\SBLyricNoteFont Johan: soinnut: UF8~004~Strings; soolo kertsiin:
+P\textsubscript{2}058~Cp:Lounge scene~1, vel.~fix~off:}
+
+\begin{lilypond}{glockenspiel}
+  \relative c'' {
+    \key fis \minor
+    a2. e'8 cis | gis4. b8~b2 |
+    a2. e'8 cis | gis4. fis8~fis2 |
+    a2. e'8 cis | gis4. b8~b2 |
+    \repeat volta 2 { fis2 e4. gis,8 | a1 | }
+  }
+\end{lilypond}
+
+\end{mysong}
+\end{document}
