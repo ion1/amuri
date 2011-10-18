@@ -4,7 +4,7 @@
   #(define version-seen #t)
   \paper {
     indent = 0\pt
-    line-width = 560\pt
+    line-width = 520\pt
     oddFooterMarkup = ##f
     oddHeaderMarkup = ##f
     bookTitleMarkup = ##f
