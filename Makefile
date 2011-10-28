@@ -1,5 +1,6 @@
 sources := \
 	aika_meni_jo.tex \
+	ala_koskaan.tex \
 	ala_nayta_pelkoasi.tex \
 	hoyhen.tex \
 	hyvasti_perhonen.tex \
